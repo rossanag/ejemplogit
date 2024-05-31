@@ -2,7 +2,7 @@
 it's a simple example
 
 Commands used:
-1. ```git clone``` [](git@github.com:rossanag/ejemplogit.git)   after creating the repo  // from GitHub  	  
+1. ```git clone``` [git@github.com:rossanag/ejemplogit.git](git@github.com:rossanag/ejemplogit.git)   after creating the repo  // from GitHub  	  
 2. change to the project folder ejemplogit  
 3. `git status`  
 4. modify the README.md file  
